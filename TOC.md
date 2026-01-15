@@ -3,9 +3,9 @@
  - [01 시작하기](pages/01-getting-started.md)
   - [01-1 서문](pages/01-1-preface.md)
   - [01-2 저자 소개](pages/01-2-author.md)
-  * [01-3 대상](pages/01-3-target-reader.md)
+  * [01-3 대상 독자](pages/01-3-target-reader.md)
   
-- [02. 게임디자인 전공 대학생](pages/02-student.md)
+- [02. 게임디자인 학과](pages/02-student.md)
   * [02-01 게임디자인 학과에 진학하게 된 이유](pages/02-01-reason-gamedesign-major.md)
   * [02-02 게임디자인 학과 커리큘럼](pages/02-02-gamedesign-curriculum.md)
   * [02-03 대학교 생활](pages/02-03-student-life.md)
@@ -16,8 +16,8 @@
   - [02-08 영어와 기술을 무기로](pages/02-08-english-techskill.md)
   - [02-09 워크래프드 3 월드 편집기로 게임 제작](pages/02-09-warcraft3-editor.md)
   - [02-10 Flash와 팀 프로젝트](pages/02-10-flash.md)
-  - [02-11 Fix & Run 하지 않고, 코드 짜고 예외처리](pages/02-11-phone-wipi-java.md)
-  - [02-12 아이폰 개발을 지원하는 OGRE 엔진](pages/02-12-orge-portfolio.md)
+  - [02-11 피쳐폰과 WIPI Java](pages/02-11-phone-wipi-java.md)
+  - [02-12 공장 취업과 OGRE 포트폴리오](pages/02-12-orge-portfolio.md)
 
 - [03. 게임 회사](pages/03-game-company.md)
   - [03-01 첫 게임 회사 취업](pages/03-01-first-game-company.md)
