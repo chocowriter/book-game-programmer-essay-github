@@ -16,8 +16,8 @@
   - [02-08 영어와 기술을 무기로](pages/02-08-english-techskill.md)
   - [02-09 워크래프드 3 월드 편집기로 게임 제작](pages/02-09-warcraft3-editor.md)
   - [02-10 Flash와 팀 프로젝트](pages/02-10-flash.md)
-  - [02-11 Fix & Run 하지 않고, 코드 짜고 예외처리](pages-02-11-phone-wipi-java.md)
-  - [02-12 아이폰 개발을 지원하는 OGRE 엔진](02-12-orge-portfolio.md)
+  - [02-11 Fix & Run 하지 않고, 코드 짜고 예외처리](pages/02-11-phone-wipi-java.md)
+  - [02-12 아이폰 개발을 지원하는 OGRE 엔진](pages/02-12-orge-portfolio.md)
 
 - [03. 게임 회사]
   - [03-01 첫 게임 회사 취업]
