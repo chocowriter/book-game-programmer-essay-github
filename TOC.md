@@ -5,7 +5,7 @@
   - [01-2. 저자 소개](pages/01-2-author.md)
   * [01-3. 대상](pages/01-3-target-reader.md)
   
-- [02. 게임디자인 전공 대학생]
+- [02. 게임디자인 전공 대학생](pages/02-student.md)
   * [02-01 게임디자인 학과에 진학하게 된 이유](pages/02-01-reason-gamedesign-major.md)
   * [02-02 게임디자인 학과 커리큘럼]
   * [02-03 대학교 생활]
