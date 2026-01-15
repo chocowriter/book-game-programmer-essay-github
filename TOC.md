@@ -33,6 +33,9 @@
   - [03-13 마음이 따뜻한 회사 동료들](pages/03-13-colleague.md)
  
 - [04. SI 회사](pages/04-si-company.md)
+  - [04-01 게임 프로그래머가 SI 회사에 입사한 이유]
+  - [04-02 SI 회사는 정말 힘들까]
+  - [04-03 SI 회사의 분명한 장단점]
 
 - [05. 컨텐츠 개발 회사](pages/05-contents-company.md)
 
@@ -40,12 +43,9 @@
   - [06-01 지금의 삶으로도 충분하다](pages/06-01-enough-life.md)
   - [06-02 프리랜서가 되고 싶다는 꿈](pages/06-02-freelancer-dream.md)
   - [06-03 일감이 없을 때 무엇을 하는 것이 좋을까](06-03-no-work-what.md)
-  - [06-04 학생도 고객이고 갑이다](pages/06-04-student-customer.md)
-  - [06-05 게임 개발 1:1 과외의 장단점](pages/06-05-tutor-good-bad.md)
   - [06-06 내성적인 성격과 재택 근무](06-06-remove-work.md)
   - [06-07 스탠딩 데스크와 산책](06-07-standing-desk.md)
   - [06-08 운이 좋은 프리랜서](06-08-lucky-freelancer.md)
-  - [06-09 학생들의 수준 차이](pages/06-09-student-level.md)
   - [06-10 한 주간 잘 보내셨나요](pages/06-10-hello.md)
   - [06-11 일기장 짧게 쓰기](pages/06-11-short-diary.md)
   - [06-12 숨고와 크몽](pages/06-12-freelancer-platform.md)
@@ -58,7 +58,6 @@
   - [06-20 유니티 에셋스토어 의존증](pages/06-20-unity-assetstore.md)
   - [06-21 산책할 때 외치는 유레카](06-21-ureka.md)
   - [06-22 꿈을 품고 있으면, 언젠가는 이루어진다](pages/06-22-dream-comes-true.md)
-  - [06-23 과외 서비스와 고객 관리](pages/06-23-tutor-service.md)
   - [06-24 명함은 항상 가방 속에](pages/06-24-business-card.md)
   - [06-25 환불 안 해주는 악질 전문가](pages/06-25-fail-refund.md)
   - [06-26 게임 외주 개발하면서 얻는 게임 템플릿](pages/06-26-game-template.md)
@@ -66,13 +65,11 @@
   - [06-28 노트북을 비롯한 전자제품 수집가](pages/06-28-collector-laptop.md)
   - [06-29 끝없는 요구사항 적당히 자르기](pages/06-29-cut-requirements.md)
   - [06-30 일주일에 하루 꼭 쉬기](pages/06-30-rest-sunday.md)
-  - [06-31 과외 커리큘럼에 진심인 이유](pages/06-31-tutor-curriculum.md)
   - [06-33 미국 파일럿의 급여가 낮은 이유](pages/06-33-lower-price.md)
   - [06-34 외주 개발 단가 하향 평준화](pages/06-34-tutor-different.md)
   - [06-35 근원적인 질문](pages/06-35-question.md)
   - [06-36 개발 생산성과 개발 실력](pages/06-36-dev-skill.md)
   - [06-37 프리랜서 게임 프로그래머의 일기장](pages/06-37-diary-programmer.md)
-  - [06-38 학생에게 오히려 배운다](pages/06-38-learn-from-student.md)
   - [06-39 개발 서적으로 보는 게임 클라이언트 프로그래머 로드맵](pages/06-39-roadmap.md)
   - [06-40 최악의 상황을 가정하라](pages/06-40-assume-worst.md)
   - [06-41 3일만에 로블록스 과외를 할 수 있었던 이유](pages/06-41-roblox-tutor.md)
@@ -85,3 +82,9 @@
   - [06-50 폐업 신고](pages/06-50-close-company.md)
 
 - [07. 과외](pages/07-tutor.md)
+  - [07-01 학생도 고객이고 갑이다](07-01-student-customer.md)
+  - [07-02 게임 개발 1:1 과외의 장단점](pages/07-02-tutor-good-bad.md)
+  - [07-03 학생들의 수준 차이](07-03-student-level.md)
+  - [07-04 과외 서비스와 고객 관리](07-04-tutor-service.md)
+  - [07-05 과외 커리큘럼에 진심인 이유](07-05-tutor-curriculum.md)
+  - [07-06 학생에게 오히려 배운다](07-06-learn-from-student.md)
