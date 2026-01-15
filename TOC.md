@@ -17,7 +17,7 @@
   - [02-09 워크래프드 3 월드 편집기로 게임 제작](pages/02-09-warcraft3-editor.md)
   - [02-10 Flash와 팀 프로젝트](pages/02-10-flash.md)
   - [02-11 피쳐폰과 WIPI Java](pages/02-11-phone-wipi-java.md)
-  - [02-12 공장 취업과 OGRE 포트폴리오](pages/02-12-factory-and-orge-portfolio.md)
+  - [02-12 공장 취업과 OGRE 포트폴리오](pages/02-12-factory-and-ogre-portfolio.md)
 
 - [03. 게임 회사](pages/03-game-company.md)
   - [03-01 첫 게임 회사 취업](pages/03-01-first-game-company.md)
