@@ -1,6 +1,6 @@
 # 목차
 
- [01. 시작하기](01-getting-started.md)
+ - [01. 시작하기](01-getting-started.md)
   - [01-2 서문](pages/01-2-preface.md)
   - [01-3 저자 소개](01-3-author.md)
   * [01-4 대상](01-4-target-reader)
