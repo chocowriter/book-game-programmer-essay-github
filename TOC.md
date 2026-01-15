@@ -39,7 +39,7 @@
 - [06. 프리랜서](pages/06-freelancer.md)
   - [06-01 지금의 삶으로도 충분하다](pages/06-01-enough-life.md)
   - [06-02 프리랜서가 되고 싶다는 꿈](pages/06-02-freelancer-dream.md)
-  - [06-03 일감이 없을 때 무엇을 하는 것이 좋을까](pages/06-03-no-work.md)
+  - [06-03 일감이 없을 때 무엇을 하는 것이 좋을까](06-03-no-work-what.md)
   - [06-04 학생도 고객이고 갑이다](pages/06-04-student-customer.md)
   - [06-05 게임 개발 1:1 과외의 장단점](pages/06-05-tutor-good-bad.md)
   - [06-06 내성적인 성격과 재택 근무](06-06-remove-work.md)
