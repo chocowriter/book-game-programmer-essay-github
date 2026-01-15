@@ -19,18 +19,18 @@
   - [02-11 Fix & Run 하지 않고, 코드 짜고 예외처리](pages/02-11-phone-wipi-java.md)
   - [02-12 아이폰 개발을 지원하는 OGRE 엔진](pages/02-12-orge-portfolio.md)
 
-- [03. 게임 회사]
-  - [03-01 첫 게임 회사 취업]
-  - [03-02 게임 회사의 야근과 주말 출근]
-  - [03-03 신입 게임 프로그래머 교육]
-  - [03-04 파견 근무]
-  - [03-05 Windows CE 그리고 SDL]
-  - [03-06  절차지향 프로그래밍에서 OOP로]
-  - [03-07 1년의 휴식 기간]
-  - [03-08 8시간 구현 및 디버깅, 야근 시 스스로 코드 리뷰]
-  - [03-09 Fix & Run 하지 않고, 코드 짜고 예외처리]
-  - [03-10 아이폰 개발을 지원하는 OGRE 엔진]
-  - [03-11 마음이 따뜻한 회사 동료들]
+- [03. 게임 회사](pages/03-game-company.md)
+  - [03-01 첫 게임 회사 취업](pages/03-01-first-game-company.md)
+  - [03-02 게임 회사의 야근과 주말 출근](pages/03-02-extra-work.md)
+  - [03-03 신입 게임 프로그래머 교육](pages/03-03-junior-education.md)
+  - [03-04 파견 근무](pages/03-04-dispatch-work.md)
+  - [03-05 Windows CE 그리고 SDL](pages/03-05-windows-ce.md)
+  - [03-06 절차지향 프로그래밍에서 OOP로](pages/03-06-oop.md)
+  - [03-07 1년의 휴식 기간](pages/03-07-rest-period.md)
+  - [03-10 8시간 구현 및 디버깅, 야근 시 스스로 코드 리뷰](pages/03-10-code-review-night.md)
+  - [03-11 Fix & Run 하지 않고, 코드 짜고 예외처리](pages/03-11-fix-and-run.md)
+  - [03-12 아이폰 개발을 지원하는 OGRE 엔진](pages/03-12-ogre-iphone.md)
+  - [03-13 마음이 따뜻한 회사 동료들](pages/03-13-colleague.md)
  
 - [04. SI 회사]
 
