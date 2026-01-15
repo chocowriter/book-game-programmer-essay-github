@@ -1,9 +1,10 @@
 # 목차
 
- - [01. 시작하기](01-getting-started.md)
-  - [01-1 서문](01-1-preface.md)
-  - [01-2 저자 소개](01-2-author.md)
-  * [01-3 대상](01-3-target-reader.md)
+ - [01. 시작하기](pages/01-getting-started.md)
+  - [01-1. 서문](pages/01-1-preface.md)
+  - [01-2. 저자 소개](pages/01-2-author.md)
+  * [01-3. 대상](pages/01-3-target-reader.md)
+
 [02. 게임디자인 전공 대학생]
 	* [02-01 게임디자인 학과에 진학하게 된 이유]
 	* [02-02 게임디자인 학과 커리큘럼]
