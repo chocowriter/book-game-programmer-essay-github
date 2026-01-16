@@ -71,7 +71,6 @@
   - [06-28 근원적인 질문](pages/06-28-question.md)
   - [06-29 개발 생산성과 개발 실력](pages/06-29-dev-skill.md)
   - [06-30 프리랜서 게임 프로그래머의 일기장](pages/06-30-diary-programmer.md)
-  - 
   - [06-32 최악의 상황을 가정하라](pages/06-32-assume-worst.md)
   - [06-33 제가 가진 유일한 재산 책](pages/06-33-book.md)
   - [06-34 위키독스에 책 여러 권을 쓰는 이유](pages/06-34-wikidocs-book.md)
