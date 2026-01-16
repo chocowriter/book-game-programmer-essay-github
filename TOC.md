@@ -31,7 +31,7 @@
   - [03-11 Fix & Run 하지 않고, 코드 짜고 예외처리](pages/03-11-fix-and-run.md)
   - [03-12 아이폰 개발을 지원하는 OGRE 엔진](pages/03-12-ogre-iphone.md)
   - [03-13 마음이 따뜻한 회사 동료들](pages/03-13-colleague.md)
-  - [03-14 개발 서적으로 보는 게임 클라이언트 프로그래머 로드맵](03-14-roadmap.md)
+  - [03-14 개발 서적으로 보는 게임 클라이언트 프로그래머 로드맵](pages/03-14-roadmap.md)
  
 - [04. SI 회사](pages/04-si-company.md)
   - [04-01 게임 프로그래머가 SI 회사에 입사한 이유]
