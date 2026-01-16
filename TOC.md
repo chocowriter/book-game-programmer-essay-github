@@ -31,6 +31,7 @@
   - [03-11 Fix & Run 하지 않고, 코드 짜고 예외처리](pages/03-11-fix-and-run.md)
   - [03-12 아이폰 개발을 지원하는 OGRE 엔진](pages/03-12-ogre-iphone.md)
   - [03-13 마음이 따뜻한 회사 동료들](pages/03-13-colleague.md)
+  - [03-14 개발 서적으로 보는 게임 클라이언트 프로그래머 로드맵](03-14-roadmap.md)
  
 - [04. SI 회사](pages/04-si-company.md)
   - [04-01 게임 프로그래머가 SI 회사에 입사한 이유]
@@ -70,7 +71,7 @@
   - [06-28 근원적인 질문](pages/06-28-question.md)
   - [06-29 개발 생산성과 개발 실력](pages/06-29-dev-skill.md)
   - [06-30 프리랜서 게임 프로그래머의 일기장](pages/06-30-diary-programmer.md)
-  - [06-31 개발 서적으로 보는 게임 클라이언트 프로그래머 로드맵](pages/06-31-roadmap.md)
+  - 
   - [06-32 최악의 상황을 가정하라](pages/06-32-assume-worst.md)
   - [06-33 제가 가진 유일한 재산 책](pages/06-33-book.md)
   - [06-34 위키독스에 책 여러 권을 쓰는 이유](pages/06-34-wikidocs-book.md)
