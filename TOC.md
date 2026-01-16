@@ -23,7 +23,7 @@
   - [03-01 첫 게임 회사 취업](pages/03-01-first-game-company.md)
   - [03-02 게임 회사의 야근과 주말 출근](pages/03-02-extra-work.md)
   - [03-03 신입 게임 프로그래머 교육](pages/03-03-junior-education.md)
-  - [03-04 파견 근무](pages/03-04-dispatch-work.md)
+  - [03-04 파견 근무와 칼퇴근](pages/03-04-dispatch-work.md)
   - [03-05 Windows CE 그리고 SDL](pages/03-05-windows-ce.md)
   - [03-06 절차지향 프로그래밍에서 OOP로](pages/03-06-oop.md)
   - [03-07 1년의 휴식 기간](pages/03-07-rest-period.md)
@@ -32,6 +32,16 @@
   - [03-12 아이폰 개발을 지원하는 OGRE 엔진](pages/03-12-ogre-iphone.md)
   - [03-13 마음이 따뜻한 회사 동료들](pages/03-13-colleague.md)
   - [03-14 개발 서적으로 보는 게임 클라이언트 프로그래머 로드맵](pages/03-14-roadmap.md)
+  - [03-15 게임 프레임워크 개발]
+  - [03-16 개발 일정 산출법]
+  - [03-17 UML 설계]
+  - [03-18 리팩토링 습관]
+  - [03-19 게임 마케팅이 필수인 이유]
+  - [03-20 퇴사 기념식]
+  - [03-21 서버 IP를 하드코딩?]
+  - [03-22 출시일 화냄 주의]
+  - [03-23 오만은 인간관계를 해친다]
+  - [03-24 누구나 전성기가 있다]
  
 - [04. SI 회사](pages/04-si-company.md)
   - [04-01 SI 회사에 입사한 이유](pages/04-01-why-si-company.md)
