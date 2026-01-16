@@ -35,7 +35,7 @@
  
 - [04. SI 회사](pages/04-si-company.md)
   - [04-01 SI 회사에 입사한 이유](pages/04-01-why-si-company.md)
-  - [04-02 SI 회사는 정말 힘들까]
+  - [04-02 SI 회사는 정말 힘들까](pages/04-02-tough-si-company.md)
   - [04-03 SI 회사의 분명한 장단점]
 
 - [05. 컨텐츠 개발 회사](pages/05-contents-company.md)
